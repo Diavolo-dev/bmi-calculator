@@ -3,6 +3,7 @@
 A new Flutter project.
 
 This is a tutorial base flutter app that i have been working on.
+it a simple app that gives you your bmi.
 
 ## Getting Started
 
